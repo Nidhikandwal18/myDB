@@ -1,0 +1,6 @@
+Big data analysis
+Hadoop architechture
+Kafka -zookeeper
+
+
+
